@@ -180,3 +180,79 @@ int main()
 
     return 0;
 }
+
+
+/* Enter number of students: 3
+Enter roll numbers:
+101
+102
+103
+After insertion at end: 101 102 103
+
+1. Insert Beginning
+2. Insert End
+3. Search
+4. Delete
+5. Display
+6. Exit
+Enter choice: 1
+Enter roll number: 100
+After insertion at beginning: 100 101 102 103
+
+1. Insert Beginning
+2. Insert End
+3. Search
+4. Delete
+5. Display
+6. Exit
+Enter choice: 2
+Enter roll number: 104
+After insertion at end: 100 101 102 103 104
+
+1. Insert Beginning
+2. Insert End
+3. Search
+4. Delete
+5. Display
+6. Exit
+Enter choice: 3
+Enter roll number to search: 102
+102 found in the list
+
+1. Insert Beginning
+2. Insert End
+3. Search
+4. Delete
+5. Display
+6. Exit
+Enter choice: 4
+Enter roll number to delete: 102
+After deletion: 100 101 103 104
+
+1. Insert Beginning
+2. Insert End
+3. Search
+4. Delete
+5. Display
+6. Exit
+Enter choice: 3
+Enter roll number to search: 500
+500 not found in the list
+
+1. Insert Beginning
+2. Insert End
+3. Search
+4. Delete
+5. Display
+6. Exit
+Enter choice: 5
+Current list: 100 101 103 104
+
+1. Insert Beginning
+2. Insert End
+3. Search
+4. Delete
+5. Display
+6. Exit
+Enter choice: 6  */
+
